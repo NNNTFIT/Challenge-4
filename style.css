@@ -33,13 +33,11 @@
   height: 200px;
   object-fit: cover;
   transition: all 0.3s ease;
-  opacity: 60%;
   cursor: pointer;
   transition: all 0.3s ease;
 }
 .container-img:hover{
   transform: scale(1.1);
-  opacity: 1;
   box-shadow: 0 15px 30px rgba(0, 0, 0, 0.3);
 }
 .modal{
